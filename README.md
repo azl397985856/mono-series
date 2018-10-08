@@ -1,6 +1,8 @@
 # mono-series
 collection of creating x from zero.
 
+持续更新～ 🌹🌹🌹
+
 ## mono-webpack
 从零开发一个webpack系列
 
